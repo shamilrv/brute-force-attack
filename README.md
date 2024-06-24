@@ -12,27 +12,22 @@ A simple brute force attack tool written in Python. This project demonstrates th
 
 1. Clone the repository:
 
-\```bash
+
 git clone https://github.com/shamilrv/brute-force-attack.git
-\```
+
 
 2. Install the required library:
 
-\```bash
+
 pip install colorama
-\```
+
 
 ## Usage
-
 Run the brute force tool:
-
-\```bash
 python bruteforce.py
-\```
 
 Enter the password to brute force when prompted.
 
-\```plaintext
 Welcome to the Brute Force Attack Tool
 Enter the password to brute force: password123
 Trying: a
@@ -41,7 +36,6 @@ Trying: b
 Password found: password123
 Total attempts: 123456789
 Time taken: 12.34 seconds
-\```
 
 ## Disclaimer
 
